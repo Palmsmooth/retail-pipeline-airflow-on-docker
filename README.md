@@ -1,4 +1,4 @@
-# Data Engineering Project: Retail_Pipeline_Airflow_On_Docker
+# Data Engineering Project: Retail Pipeline Airflow On Docker
 Follow this instruction: [Running Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html)
 ## Fetching docker-compose.yaml
 To deploy Airflow on Docker Compose, you should fetch docker-compose.yaml.
